@@ -1,0 +1,7 @@
+{
+  "name": "Parental Control Dashboard",
+  "description": "A modern dashboard for parents to monitor their child's device usage, including app activity, screen time limits, content filtering, and location tracking. This is a visual representation and does not perform actual device monitoring.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
